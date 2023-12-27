@@ -35,15 +35,15 @@
 ### Case_2. User Timezone(O/S): Canada/Newfoundland(GMT-0330)
 
 ***(Default) `new Date()`***
-> ***Web Browser Language: ko***
+> ***Web Browser Language: Korean -- ko***
 > ```
 > Tue Dec 26 2023 21:00:58 GMT-0330 (뉴펀들랜드 표준시)
 > ```
-> ***Web Browser Language: en***
+> ***Web Browser Language: English (United States) -- en***
 > ```
 > Tue Dec 26 2023 21:00:58 GMT-0330 (Newfoundland Standard Time)
 > ```
-> ***Web Browser Language: zh-chs***
+> ***Web Browser Language: Chinese (Simplified) -- zh-chs***
 > ```
 > Tue Dec 26 2023 21:00:58 GMT-0330 (纽芬兰标准时间)
 > ```
