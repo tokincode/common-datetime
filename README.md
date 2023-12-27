@@ -2,7 +2,7 @@
 
 ### [`GetCommonLocaleTimestamp.js`](GetCommonLocaleTimestamp.js)
 
-## 1. Common and Target Datetime Format (type: String)
+## 1. Common and Target Datetime Format (type: [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String))
 |Years|-|Months|-|Days|\s|Hours|:|Minutes|:|Seconds|.|Miliseconds|\s|Timezone offset|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |yyyy|-|MM|-|dd| |HH|:|mi|:|SS|.|sss| |+0900|
